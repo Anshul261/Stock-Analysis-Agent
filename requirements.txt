@@ -1,0 +1,8 @@
+yfinance
+langchain-experimental
+langchain-community
+langchain-openai
+langchain
+openai
+ipython
+langgraph
